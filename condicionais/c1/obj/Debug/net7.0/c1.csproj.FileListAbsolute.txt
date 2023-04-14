@@ -1,0 +1,15 @@
+C:\Users\50579698890\Desktop\c1\bin\Debug\net7.0\c1.exe
+C:\Users\50579698890\Desktop\c1\bin\Debug\net7.0\c1.deps.json
+C:\Users\50579698890\Desktop\c1\bin\Debug\net7.0\c1.runtimeconfig.json
+C:\Users\50579698890\Desktop\c1\bin\Debug\net7.0\c1.dll
+C:\Users\50579698890\Desktop\c1\bin\Debug\net7.0\c1.pdb
+C:\Users\50579698890\Desktop\c1\obj\Debug\net7.0\c1.csproj.AssemblyReference.cache
+C:\Users\50579698890\Desktop\c1\obj\Debug\net7.0\c1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50579698890\Desktop\c1\obj\Debug\net7.0\c1.AssemblyInfoInputs.cache
+C:\Users\50579698890\Desktop\c1\obj\Debug\net7.0\c1.AssemblyInfo.cs
+C:\Users\50579698890\Desktop\c1\obj\Debug\net7.0\c1.csproj.CoreCompileInputs.cache
+C:\Users\50579698890\Desktop\c1\obj\Debug\net7.0\c1.dll
+C:\Users\50579698890\Desktop\c1\obj\Debug\net7.0\refint\c1.dll
+C:\Users\50579698890\Desktop\c1\obj\Debug\net7.0\c1.pdb
+C:\Users\50579698890\Desktop\c1\obj\Debug\net7.0\c1.genruntimeconfig.cache
+C:\Users\50579698890\Desktop\c1\obj\Debug\net7.0\ref\c1.dll
