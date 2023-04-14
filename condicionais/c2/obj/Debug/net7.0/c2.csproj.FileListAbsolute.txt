@@ -1,0 +1,15 @@
+C:\Users\50579698890\Desktop\c2\bin\Debug\net7.0\c2.exe
+C:\Users\50579698890\Desktop\c2\bin\Debug\net7.0\c2.deps.json
+C:\Users\50579698890\Desktop\c2\bin\Debug\net7.0\c2.runtimeconfig.json
+C:\Users\50579698890\Desktop\c2\bin\Debug\net7.0\c2.dll
+C:\Users\50579698890\Desktop\c2\bin\Debug\net7.0\c2.pdb
+C:\Users\50579698890\Desktop\c2\obj\Debug\net7.0\c2.csproj.AssemblyReference.cache
+C:\Users\50579698890\Desktop\c2\obj\Debug\net7.0\c2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50579698890\Desktop\c2\obj\Debug\net7.0\c2.AssemblyInfoInputs.cache
+C:\Users\50579698890\Desktop\c2\obj\Debug\net7.0\c2.AssemblyInfo.cs
+C:\Users\50579698890\Desktop\c2\obj\Debug\net7.0\c2.csproj.CoreCompileInputs.cache
+C:\Users\50579698890\Desktop\c2\obj\Debug\net7.0\c2.dll
+C:\Users\50579698890\Desktop\c2\obj\Debug\net7.0\refint\c2.dll
+C:\Users\50579698890\Desktop\c2\obj\Debug\net7.0\c2.pdb
+C:\Users\50579698890\Desktop\c2\obj\Debug\net7.0\c2.genruntimeconfig.cache
+C:\Users\50579698890\Desktop\c2\obj\Debug\net7.0\ref\c2.dll
