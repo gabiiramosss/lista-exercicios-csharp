@@ -1,0 +1,15 @@
+C:\Users\50579698890\Desktop\c3\bin\Debug\net7.0\c3.exe
+C:\Users\50579698890\Desktop\c3\bin\Debug\net7.0\c3.deps.json
+C:\Users\50579698890\Desktop\c3\bin\Debug\net7.0\c3.runtimeconfig.json
+C:\Users\50579698890\Desktop\c3\bin\Debug\net7.0\c3.dll
+C:\Users\50579698890\Desktop\c3\bin\Debug\net7.0\c3.pdb
+C:\Users\50579698890\Desktop\c3\obj\Debug\net7.0\c3.csproj.AssemblyReference.cache
+C:\Users\50579698890\Desktop\c3\obj\Debug\net7.0\c3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50579698890\Desktop\c3\obj\Debug\net7.0\c3.AssemblyInfoInputs.cache
+C:\Users\50579698890\Desktop\c3\obj\Debug\net7.0\c3.AssemblyInfo.cs
+C:\Users\50579698890\Desktop\c3\obj\Debug\net7.0\c3.csproj.CoreCompileInputs.cache
+C:\Users\50579698890\Desktop\c3\obj\Debug\net7.0\c3.dll
+C:\Users\50579698890\Desktop\c3\obj\Debug\net7.0\refint\c3.dll
+C:\Users\50579698890\Desktop\c3\obj\Debug\net7.0\c3.pdb
+C:\Users\50579698890\Desktop\c3\obj\Debug\net7.0\c3.genruntimeconfig.cache
+C:\Users\50579698890\Desktop\c3\obj\Debug\net7.0\ref\c3.dll
