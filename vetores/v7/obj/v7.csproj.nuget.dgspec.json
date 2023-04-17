@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\50579698890\\Desktop\\lista-exercicios-csharp\\vetores\\v6\\v6.csproj": {}
+    "C:\\Users\\50579698890\\Desktop\\v7\\v7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\50579698890\\Desktop\\lista-exercicios-csharp\\vetores\\v6\\v6.csproj": {
+    "C:\\Users\\50579698890\\Desktop\\v7\\v7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\50579698890\\Desktop\\lista-exercicios-csharp\\vetores\\v6\\v6.csproj",
-        "projectName": "v6",
-        "projectPath": "C:\\Users\\50579698890\\Desktop\\lista-exercicios-csharp\\vetores\\v6\\v6.csproj",
+        "projectUniqueName": "C:\\Users\\50579698890\\Desktop\\v7\\v7.csproj",
+        "projectName": "v7",
+        "projectPath": "C:\\Users\\50579698890\\Desktop\\v7\\v7.csproj",
         "packagesPath": "C:\\Users\\50579698890\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\50579698890\\Desktop\\lista-exercicios-csharp\\vetores\\v6\\obj\\",
+        "outputPath": "C:\\Users\\50579698890\\Desktop\\v7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\50579698890\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -30,3 +30,5 @@ else
 {
     Console.WriteLine($"NÃO ACHEI");
 }
+
+//Poderia ser feito com contains: if (nome.Contains(nomePesquisa))
